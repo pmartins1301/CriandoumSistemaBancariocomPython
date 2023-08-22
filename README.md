@@ -1,16 +1,16 @@
 # Criando-um-Sistema-Bancario-com-Python
 Desafio DIO: Criar um sistema bancário com as operações sacar, depositar e visualizar extrato
 
-DESAFIO:
+## 📝 DESAFIO:
 Fomos contratados por um grande banco para desenvolver o seu novo sistema Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python Para a primeira versão do sistema devemos implementar apenas 3 operações depósito, saque e extrato.
 
-#OPERAÇÃO DE DEPÓSITO
+## :moneybag: OPERAÇÃO DE DEPÓSITO
 
 Deve ser possível depositar valores positivos para a minha conta bancária A v 1 do projeto trabalha apenas com 1 usuário,
 dessa forma não precisamos nos preocupar em identificar qual é o número da agência e conta bancária Todos os depósitos
 devem ser armazenados em uma variável e exibidos na operação de extrato.
 
-#OPERAÇÃO DE SAQUE
+## :money_with_wings: OPERAÇÃO DE SAQUE
 
 O sistema deve permitir realizar 3 saques diários com limite máximo de R 500 00 por saque Caso o usuário não tenha
 saldo em conta, o sistema deve exibir uma mensagem informando que não será possível sacar o dinheiro por falta de
